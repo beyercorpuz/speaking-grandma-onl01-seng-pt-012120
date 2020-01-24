@@ -12,10 +12,10 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
-def speak_to_grandmaclearclear
+def speak_to_grandma("Phrase")
   
   
-  If #{grandma1} = Uppercase "I LOVE YOU GRANDMA"
+  If #{Phraseclear} = Uppercase "I LOVE YOU GRANDMA"
 else if clear = uppercase&&shout then " NO,NOT SINCE 1938!"
   ELSE IF Phrase = exactly "I LOVE YOU TOO PUMPKIN!"
   

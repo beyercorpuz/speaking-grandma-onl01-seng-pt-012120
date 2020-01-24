@@ -17,7 +17,8 @@ def speak_to_grandma()
   
   If #{"phrase"} = Uppercase  
   return "I LOVE YOU GRANDMA"
-else if #{phrase} = uppercase state " NO,NOT SINCE 1938!"
+else if #{phrase} = "shout" 
+return " NO,NOT SINCE 1938!"
   else  #{phrase} = exactly state"I LOVE YOU TOO PUMPKIN!"
   
 end

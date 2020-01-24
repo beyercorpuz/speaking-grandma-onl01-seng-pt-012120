@@ -19,7 +19,7 @@ def speak_to_grandma()
   return "HUH, SPEAK UP SONY!"
 else if "phrase" =="shout" 
 return " NO,NOT SINCE 1938!"
-  else  "phrase" == uppercase 
+  else  "phrase" == " I LOVE YOU GRANDMA"
     return "I LOVE YOU TOO PUMPKIN!"
   
 end

@@ -19,4 +19,4 @@ def speak_to_grandma(Phraseclear)
 else if clear = uppercase&&shout then " NO,NOT SINCE 1938!"
   ELSE IF Phrase = exactly "I LOVE YOU TOO PUMPKIN!"
   
-  ENDclear
+end

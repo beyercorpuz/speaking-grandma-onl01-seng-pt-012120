@@ -15,7 +15,7 @@
 def speak_to_grandma()
   "Phrase" = " I LOVE YOU GRANDMA"
   
-  If "phrase" == "lowercase"
+  If phrase == "lowercase"
   
   return "HUH, SPEAK UP SONY!"
   

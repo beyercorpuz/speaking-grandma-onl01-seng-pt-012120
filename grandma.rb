@@ -13,7 +13,7 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma()
-  phrase = uppercase
+  "Phrase" = " I LOVE YOU GRANDMA"
   
   If "phrase" == "lowercase"
   

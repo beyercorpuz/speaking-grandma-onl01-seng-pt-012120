@@ -15,10 +15,10 @@
 def speak_to_grandma()
   
   
-  If "phrase"  lowecase
+  If "phrase"  lowercase
   puts "HUH, SPEAK UP SONY!"
-else if  = "shout" 
+else if  you "shout" 
 return " NO,NOT SINCE 1938!"
-  else  #{phrase} = exactly state"I LOVE YOU TOO PUMPKIN!"
+  else  "phrase" uppercase = exactly state"I LOVE YOU TOO PUMPKIN!"
   
 end

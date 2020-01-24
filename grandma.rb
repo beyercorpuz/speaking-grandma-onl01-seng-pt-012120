@@ -18,7 +18,7 @@ def speak_to_grandma()
   If "phrase" == "lowercase"
   
   return "HUH, SPEAK UP SONY!"
-clear
+  
 else if "phrase" =="UPPERCASE" 
 return " NO,NOT SINCE 1938!"
   else  "phrase" == " I LOVE YOU GRANDMA"

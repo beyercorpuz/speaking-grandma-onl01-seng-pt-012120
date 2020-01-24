@@ -15,9 +15,8 @@
 def speak_to_grandmaclearclear
   
   
-  If  = UPPERCASE   
-  return "I LOVE YOU GRANDMA"
+  If #{grandma1} = Uppercase "I LOVE YOU GRANDMA"
 else if clear = uppercase&&shout then " NO,NOT SINCE 1938!"
   ELSE IF Phrase = exactly "I LOVE YOU TOO PUMPKIN!"
   
-  END
+  ENDclear

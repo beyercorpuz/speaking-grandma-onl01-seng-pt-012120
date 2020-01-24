@@ -15,7 +15,7 @@
 def speak_to_grandma()
   
   
-  If "phrase" = !uppercase
+  If "phrase"  is !uppercase
   puts "HUH, SPEAK UP SONY!"
 else if  = "shout" 
 return " NO,NOT SINCE 1938!"

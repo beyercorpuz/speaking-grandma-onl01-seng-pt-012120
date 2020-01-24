@@ -13,9 +13,9 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma()
+  phrase = uppercase
   
-  
-  If "phrase"  lowercase
+  If "phrase" == lowercase
   puts "HUH, SPEAK UP SONY!"
 else if  you "shout" 
 return " NO,NOT SINCE 1938!"

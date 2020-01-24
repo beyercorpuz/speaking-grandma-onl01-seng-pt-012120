@@ -16,9 +16,10 @@ def speak_to_grandma()
   phrase = uppercase
   
   If "phrase" == lowercase
-  puts "HUH, SPEAK UP SONY!"
-else if  you "shout" 
+  return "HUH, SPEAK UP SONY!"
+else if "phrase" =="shout" 
 return " NO,NOT SINCE 1938!"
-  else  "phrase" uppercase = exactly state"I LOVE YOU TOO PUMPKIN!"
+  else  "phrase" == uppercase 
+    return "I LOVE YOU TOO PUMPKIN!"
   
 end
